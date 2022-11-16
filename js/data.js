@@ -1,4 +1,4 @@
-var requestURL = 'http://114.71.48.94:8080/nCnt';
+var requestURL = 'http://114.71.48.94:8080/sscccounter_info';
 var request = new XMLHttpRequest();
 
 request.open('GET', requestURL);
